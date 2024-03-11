@@ -1,0 +1,12 @@
+@font-face {
+    font-family: f;
+    src: url(/examenbootstraprecursos/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+*{
+    font-family: 'f';
+}
+
+.logo{
+    width:6%;
+}
