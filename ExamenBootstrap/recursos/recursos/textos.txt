@@ -1,0 +1,61 @@
+
+
+=========================================
+        Encapçalament
+=========================================
+
+BHEC
+
+
+Contacta
+Catàleg
+
+    Ferrari
+    Lamborghini
+    Altre
+
+Notícies
+
+
+=========================================
+        Cercador
+=========================================
+
+Escriu un text per a cercar
+
+
+=========================================
+        Notícies
+=========================================
+
+-----------------------------------------
+Cotxes imparells:
+-----------------------------------------
+
+Nou model de Delorean
+
+
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium temporibus adipisci assumenda mollitia. Est in odio iste itaque, esse recusandae voluptate aspernatur expedita? Error hic beatae veniam optio illum facilis. Blanditiis rem repellendus quidem culpa ...
+
+
+-----------------------------------------
+Cotxes parells:
+-----------------------------------------
+
+Revolucionari vehicle elèctric
+
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque assumenda eos necessitatibus sequi, soluta impedit ex exercitationem iste dicta inventore cumque! Aspernatur possimus tempore dolores consequuntur veritatis a harum quas? Voluptatum labore animi, culpa ab exercitationem voluptate omnis quis voluptas quidem totam aliquam odio mollitia quam ...
+
+
+
+=========================================
+        Peu de pàgina
+=========================================
+
+Formes de pagament
+Assegurança
+Notícies
+@202X
+Condicions d'ús
+Política de cookes
