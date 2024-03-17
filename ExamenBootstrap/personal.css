@@ -1,6 +1,6 @@
 @font-face {
     font-family: f;
-    src: url(/ExamenBootstrap/examenbootstraprecursos/Montserrat/Montserrat-VariableFont_wght.ttf);
+    src: url(/examenbootstraprecursos/Montserrat/Montserrat-VariableFont_wght.ttf);
 }
 
 *{
@@ -8,7 +8,7 @@
 }
 
 .logo{
-    width:6%;
+    height: 30px;
 }
 
 .footerSVG{
