@@ -22,3 +22,9 @@
 .linkHeader:hover{
     opacity: 0.5;
 }
+
+.grisObscur:hover{
+    background-color: #5c636a;
+    display:none;
+}
+
